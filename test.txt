@@ -1,2 +1,0 @@
-Hello class,am really hungry.
-This is the first task in python

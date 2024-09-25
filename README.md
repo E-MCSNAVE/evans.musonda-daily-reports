@@ -2,7 +2,7 @@ This repository contains the daily reports of my python classes.
 
 #**Day 00: Introduction to Python and Jupyter Notebook**
 
-Today, we were introduced to Python and the Jupyter Notebook environment. The session focused on how to navigate through the Jupyter interface, understanding its components, and getting familiar with working within this environment. We also learned how to run cells and explored basic jupyter notebook functions.
+On day 0, we were introduced to Python and the Jupyter Notebook environment. The session focused on how to navigate through the Jupyter interface, understanding its components, and getting familiar with working within this environment. We also learned how to run cells and explored basic jupyter notebook functions.
 
 ---
 
@@ -13,4 +13,4 @@ On Day 1, we learned about variable assignment and the various data types in Pyt
 ---
 #**Day 02: Strings in Depth**
 
-Today, we continued our exploration of variables, focusing specifically on strings. We examined different methods and functions associated with string manipulation, such as concatenation, slicing, and string formatting. We also covered string methods like upper(), lower(), replace(), and split().
+On day 2, we continued our exploration of variables, focusing specifically on strings. We examined different methods and functions associated with string manipulation, such as concatenation, slicing, and string formatting. We also covered string methods like upper(), lower(), replace(), and split().

@@ -14,3 +14,12 @@ On Day 1, we learned about variable assignment and the various data types in Pyt
 #**Day 02: Strings in Depth**
 
 On day 2, we continued our exploration of variables, focusing specifically on strings. We examined different methods and functions associated with string manipulation, such as concatenation, slicing, and string formatting. We also covered string methods like upper(), lower(), replace(), and split().
+---
+
+#**Daily Report: Day 3 - Version Control with Git (Local)**
+
+On day 03, we focused on understanding and practicing version control using Git in a local repository. We explored how Git helps in tracking changes, managing different versions of files, and ensuring collaborative development in a controlled environment. The session also involved interacting with the Jupyter environment to implement Git commands and reference key concepts.
+Key Takeaways:
+[x]Basic Git commands for local version control.
+[x] The importance of version tracking and meaningful commit messages.
+[x]How to use Git in Jupyter for managing code changes.

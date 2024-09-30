@@ -33,5 +33,7 @@ How to use Git in Jupyter for managing code changes.
 **Day 04: Iterable objects and containers**
 On day 04, we looked at objects and containers such as lists, dictionaries, and turples. We learned about methods for manipulating lists (append(), remove()), dictionaries (keys(), get()). Practical exercises involved creating and manipulating these objects.
 
+---
+
 **Day 05: Flow Control and conditinal statements** 
 On day 05, We Focused on flow control using conditional statements (if, elif, else) and loops (for and while). We learned how to use conditions to guide program execution and practiced writing loops to iterate over sequences and control repetition in code. 
